@@ -1,11 +1,5 @@
 <h1 align="left">Olá, Seja bem Vindo!</h1>
 
-###
-
-<img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202508/338224_CZVNhIT2.png"  />
-
-###
-
 <p align="left">Olá, me chamo Weverton, tenho 17 anos e sou do Espírito Santo. Desde cedo, a tecnologia me fascina, seja através de jogos ou aplicativos. Essa paixão se intensificou e me levou a decidir seguir carreira como programador. Tenho experiência tanto no desenvolvimento front-end quanto no back-end. Confesso que meu interesse maior está no front-end, já que adoro a parte visual e a experiência que o público tem com o produto final.</p>
 
 ###
@@ -39,9 +33,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/weverton-msilva/weverton-msilva/output/snake.svg" alt="Snake animation" />
-
-###
