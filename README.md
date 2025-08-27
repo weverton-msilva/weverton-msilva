@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Seja bem Vindo Ao Meu GitHub:
 Olá, me chamo Weverton, tenho 17 anos e sou do Espírito Santo. Desde cedo, a tecnologia me fascina, seja através de jogos ou aplicativos. Essa paixão se intensificou e me levou a decidir seguir carreira como programador. Tenho experiência tanto no desenvolvimento front-end quanto no back-end. Confesso que meu interesse maior está no front-end, já que adoro a parte visual e a experiência que o público tem com o produto final.<br><br>🔭 Estou buscando aprender mais sobre o Back-End<br>👯 Trabalho em equipe de forma eficiente e precisa<br>🤝 Estou sempre ajudando em projetos online<br>🌱 Estudo para fazer ideias virarem realidades<br>💬 Amo jogos e uso o mesmo para relaxar
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/weverton.msilva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/weverton.msilva) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@weverton.msilva) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@weverton.msilva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wevertonmartinsdigital@gmail.com) 
 
 # 💻 Tech Stack:
