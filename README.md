@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://media.tenor.com/KFSoyv48uPcAAAAi/mila-oliveira-milaoliveirapng.gif" height="150" alt="GIF">
-</p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.tenor.com/KFSoyv48uPcAAAAi/mila-oliveira-milaoliveirapng.gif"  />
+</div>
 
 ###
 
