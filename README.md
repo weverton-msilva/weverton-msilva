@@ -10,7 +10,7 @@
 
 # 🚀 Olá! Eu sou Weverton Martins
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**, apaixonado por tecnologia e pelo ecossistema Java.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**, apaixonado pelo ecossistema Java.
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, com foco em **Java, Spring Boot e desenvolvimento backend**. Busco construir uma base sólida em programação orientada a objetos, arquitetura de software, APIs REST e boas práticas de desenvolvimento.
 
