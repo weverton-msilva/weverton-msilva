@@ -1,6 +1,6 @@
  <div align="center">
 
-<img height="150" src="https://media.tenor.com/KFSoyv48uPcAAAAi/mila-oliveira-milaoliveirapng.gif" />
+<img height="200" src="https://media.tenor.com/KFSoyv48uPcAAAAi/mila-oliveira-milaoliveirapng.gif" />
 
 <br/>
 
