@@ -43,11 +43,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weverton-msilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
-
 ![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=weverton-msilva&theme=tokyonight&hide_border=true)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=weverton-msilva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
 
